@@ -51,7 +51,17 @@
   --scrollbar-opacity: 0.5;
   --scrollbar-opacity-hover: 0.7;
   --scrollbar-width: 10px; }
-
+  --Theme-Variant: " An Orion Deep Field";
+  --Chat-Font-Used: "Whitney";
+  --Chat-Font-Size: 15px;
+  --Unread-Message-Speed: 1.5s;
+  --Popout-Main-Colour: var(--Main-Colour);
+  --Popout-Background: var(--Chat-Background);
+  --Popout-Text-Shadow-Colour:var(--Text-Shadow-Colour);
+  --Emote-Popout-Background: var(--Secondary-Background-Colour);
+  --load1: "Thank You!";
+  --load2: "Please Enjoy!";
+  --load3: "➢NFLD99";
 /*
  *
  *	APP ELEMENTS
