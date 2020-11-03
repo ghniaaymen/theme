@@ -4,6 +4,7 @@
 @import url(https://discord-custom-covers.github.io/usrbg/dist/usrbg.css);
 
 :root {
+        --Theme-Variant: " An Orion Deep Field" 
 	--dtransparencycolor:			0,0,0;
 	--dtransparencyalpha:			0.15;
 	--dmessagetransparency:			0.5;
